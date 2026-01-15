@@ -1,4 +1,4 @@
-**Files Overview**
+*Files Overview*
 
 bot.py - Main Discord bot with Cerebras AI integration
 requirements.txt - Python dependencies
