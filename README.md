@@ -1,11 +1,11 @@
-# 🤖 Discord AI Bot (Cerebras-powered)
+# Cerebot
 
 A Discord bot integrated with **Cerebras AI** for ultra-fast inference.  
 Deployed on **Render.com**, with per-user conversation memory and long-response handling.
 
 ---
 
-## 📁 Files Overview
+## Files Overview
 
 - **bot.py**  
   Main Discord bot with Cerebras AI integration
@@ -18,7 +18,7 @@ Deployed on **Render.com**, with per-user conversation memory and long-response 
 
 ---
 
-## ✨ Features
+## Features
 
 - `!ask <question>` — Ask the AI anything  
 - `!reset` — Clear your conversation history  
@@ -28,9 +28,9 @@ Deployed on **Render.com**, with per-user conversation memory and long-response 
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
-### 1️⃣ Get Your API Keys
+### Get Your API Keys
 
 #### Discord Bot Token
 
@@ -47,7 +47,7 @@ You already have this from your existing setup.
 
 ---
 
-### 2️⃣ Deploy to Render.com
+### Deploy to Render.com
 
 #### Prepare Your Repository
 
