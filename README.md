@@ -40,7 +40,7 @@ Before proceeding with the subsequent steps, clone this repository into your own
 2. Create a **New Application**
 3. Navigate to the **Bot** section
 4. Click **Create Bot**
-5. Copy the **Bot Token**
+5. Copy the **Bot Token**. This will be your `DISCORD_BOT_TOKEN`
 6. Enable **Message Content Intent** under **Privileged Gateway Intents**
 
 #### Cerebras API Key
@@ -56,7 +56,7 @@ In Render.com:
 1. Create a new Web Service
 2. Connect it to the cloned GitHub repository
 3. Render will auto-detect it's a Python app
-4. Set your CEREBRAS_API_KEY and DISCORD_BOT_TOKEN in the environment variable field
+4. Set your `CEREBRAS_API_KEY` and `DISCORD_BOT_TOKEN` in the environment variable field
 5. Set the Start Command field to `python bot.py`
 6. Click deploy
 
