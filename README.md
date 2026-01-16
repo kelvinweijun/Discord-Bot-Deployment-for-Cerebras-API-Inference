@@ -65,5 +65,5 @@ In Render.com:
 To keep the bot awake 24/7, you may use UptimeRobot to monitor and consistently ping your Render web service every interval.
 
 1. Go to the bot's web service you deployed on Render, then copy the link of the web service
-2. Go to https://www.uptimerobot.com and create a new monitor, enter the url, and start it
+2. Go to https://www.uptimerobot.com and create a new monitor, enter the bot's web service link, and start it
 
