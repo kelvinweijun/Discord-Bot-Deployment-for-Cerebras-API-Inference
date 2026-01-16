@@ -1,6 +1,6 @@
-# Cerebot
+# Discord Bot Deployment for Cerebras API Inference
 
-A Discord bot integrated with **Cerebras AI** for ultra-fast inference.  
+This is a repository containing components of Discord bot integrated with **Cerebras AI** for ultra-fast inference.  
 Deployed on **Render.com**, with per-user conversation memory and long-response handling. Note that this bot by default will use llama 3.3 70B model. You may change the model in bot.py if you want, but the model must be available in the list offered by Cerebras.
 
 ---
